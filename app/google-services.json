@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704749374044",
+    "project_id": "alikfire-58d6d",
+    "storage_bucket": "alikfire-58d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704749374044:android:56569bf2ec8dcd02887499",
+        "android_client_info": {
+          "package_name": "com.example.myfirstappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_AFDau_dEEYLvKrEdritLrGRn3TPI0dA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
